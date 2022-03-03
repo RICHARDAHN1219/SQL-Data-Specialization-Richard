@@ -1,0 +1,11 @@
+Summary of different descriptive statistics
+
+One point I learned about the data is that the age for most medals earned is average 25-27 years of age. Another point is that there are much more females than males receiving medals for the medals earned at the individual events. Finally, the medal ratio is much higher for those in their 20's during the Summer Olympics rather than the Winter Olympics
+
+My hypothesis has actually been proven incorrect since the female to male ratio is very high for both the summer and winter olympics. However, I was correct that the summer olympics had more medals earned overall as well as the average medals per person for the people in their 20's. For the Winter Olympics though, the people overall that earn their medals earn them from their teens to their late 20's mostly while the summer olympic medals are earned from the early 20's to the late 30's most commonly.
+
+Some additional questions include:
+
+Was the average age of females earning the gold medal lower than the men? And were they lower for the silver and bronze medal respectively as well?
+
+What are some factors for the medal ratio to reduce over the decades
